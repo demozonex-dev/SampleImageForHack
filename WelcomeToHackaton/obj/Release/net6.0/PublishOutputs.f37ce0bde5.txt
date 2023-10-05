@@ -1,0 +1,7 @@
+C:\SampleImageForHack\WelcomeToHackaton\obj\Docker\publish\WelcomeToHackaton.exe
+C:\SampleImageForHack\WelcomeToHackaton\obj\Docker\publish\appsettings.Development.json
+C:\SampleImageForHack\WelcomeToHackaton\obj\Docker\publish\appsettings.json
+C:\SampleImageForHack\WelcomeToHackaton\obj\Docker\publish\WelcomeToHackaton.dll
+C:\SampleImageForHack\WelcomeToHackaton\obj\Docker\publish\WelcomeToHackaton.deps.json
+C:\SampleImageForHack\WelcomeToHackaton\obj\Docker\publish\WelcomeToHackaton.runtimeconfig.json
+C:\SampleImageForHack\WelcomeToHackaton\obj\Docker\publish\WelcomeToHackaton.pdb

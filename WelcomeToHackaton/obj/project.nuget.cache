@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xx3t/ixKbpCMiXkUfhF+bbPYSkzpa79/z77hUDkHHojftxm2OLF0wAYxDZUl7FuEr59X4iSLaCSazrIPb3xDuQ==",
+  "success": true,
+  "projectFilePath": "C:\\SampleImageForHack\\WelcomeToHackaton\\WelcomeToHackaton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EricVernié\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
